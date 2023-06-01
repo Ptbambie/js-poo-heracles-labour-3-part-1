@@ -43,4 +43,4 @@ ArenaHTML.createArena(<< Mon instance d'Arena >>);
 
 - Actualise : tu dois les voir sur une carte représentant ton arène et tes combattants dessus ! Modifies les coordonnées de chacun, ils doivent bouger en conséquence !
 
-La prochaine étape sera d'attaquer les oiseaux : ce sera la seconde partie de cet atelier ;)
+La prochaine étape sera d'attaquer les oiseaux : ce sera la seconde partie de cet atelier ;

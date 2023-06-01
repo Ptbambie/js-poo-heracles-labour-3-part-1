@@ -1,6 +1,10 @@
 const Fighter = require("./src/Fighter.js");
 const Weapon = require("./src/Weapon.js");
 const Shield = require("./src/Shield.js");
+const Hero = require("./src/Hero.js");
+const Monster = require("./src/Monster.js")
+const Arena = require("./src/Arena.js");
+const ArenaTemplate = require("./src/ArenaTemplate.js");
 
 /** Creation of Héraclès  */
 const heracles = new Fighter("🧔 Heracles", 20, 6);
